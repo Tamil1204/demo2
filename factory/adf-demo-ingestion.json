@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-ingestion",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a011ec36-7e77-40da-8e5c-a213474c49b4",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
